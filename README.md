@@ -10,7 +10,15 @@ A demo based on the paper "Dictionary Reduction: Automatic Compact Dictionary Le
 ## Run the demo
 ```
 >> demo
-'''
+```
+
+## Citation
+Y. Song, Z. Zhang, L. Liu, A. Rahimpour, and H. Qi
+Dictionary Reduction: Automatic Compact Dictionary Learning for Classification
+Asian Conference on Computer Vision (ACCV), 2016. [PDF](http://media.wix.com/ugd/fc09cd_751b72619672413e998abd4708ddc49f.pdf)
+```
+
+```
 
 
 

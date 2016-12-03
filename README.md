@@ -1,2 +1,6 @@
-# ACDL
-Dictionary Reduction: Automatic Compact Dictionary Learning for Classification
+# Dictionary Reduction: Automatic Compact Dictionary Learning for Classification
+
+
+
+
+
